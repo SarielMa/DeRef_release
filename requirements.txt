@@ -1,0 +1,13 @@
+# Main environment (Python 3.11.16, CUDA 13.0): steps 03, 08, 10-14, 20-22, 40-47, 50-54, 60-86.
+# Versions are the ones that ran for the paper.
+torch==2.13.0
+transformers==5.18.0
+tokenizers==0.23.2
+vllm==0.30.0
+huggingface-hub==1.33.0
+safetensors==0.8.0
+numpy==2.3.5
+pandas==3.0.6
+scipy==1.17.1
+requests==2.34.2
+contrastive-lm==0.1.0

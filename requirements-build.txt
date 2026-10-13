@@ -1,0 +1,11 @@
+# Build environment (Python 3.12.11): steps 01, 02, 05, 07, 09 (FC-RewardBench source rows via `datasets`,
+# FinTrace tool similarity via `sentence-transformers` on CPU). Versions are the ones that ran for the paper.
+# Step 02 also imports the BFCL checker from a local gorilla checkout (commit 70b6a4a21445; see its own requirements).
+datasets==4.0.0
+pyarrow==21.0.0
+sentence-transformers==5.1.1
+torch==2.7.1
+transformers==4.55.4
+numpy==2.2.6
+pandas==2.3.2
+scipy==1.16.1
