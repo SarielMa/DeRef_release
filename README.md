@@ -124,10 +124,14 @@ deref/stats      tables and figures        scripts 50-54, 64, 71, 73, 84-86
 
 ## Citation
 
-```
-@inproceedings{anonymous2026deref,
-  title  = {Judges Follow the Reference: The Derivation Gap in Verifying Tool-Call Arguments},
-  author = {Anonymous},
-  year   = {2026}
+```bibtex
+@misc{ma2026judgesfollowreferencederivation,
+      title={Judges Follow the Reference: The Derivation Gap in Verifying Tool-Call Arguments}, 
+      author={Linhai Ma and Yan Wang and Lingfei Qian and Yupeng Cao and Victor Gutierrez Basulto},
+      year={2026},
+      eprint={2610.18497},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2610.18497}, 
 }
 ```
