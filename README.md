@@ -10,7 +10,8 @@ The code rebuilds every table and figure in the main body of the paper. The pipe
 4. **score**: score the inputs with CLM, local judges (Qwen3, Llama, Mistral) and Jev.
 5. **stats**: compute the numbers in the tables and figures.
 
-The data from stage 1 is released separately (`deref_data/`), so you can start at stage 2.
+The data from stage 1 is released on Hugging Face as [`lm2445/DeRef`](https://huggingface.co/datasets/lm2445/DeRef),
+so you can start at stage 2.
 No model outputs or results are included. Every number is recomputed from the pipeline.
 
 ## Setup
